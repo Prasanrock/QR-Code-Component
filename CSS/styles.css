@@ -1,0 +1,45 @@
+
+/* Element Style*/
+
+body {
+  background-color: #D5E1EF;
+}
+
+img {
+  height: 279px;
+  width: 286px;
+  border-radius: 12px;
+  margin: 5%;
+}
+
+h1 {
+  font-family: 'Outfit', sans-serif;
+  font-weight: 600;
+  font-size: 23px;
+  margin: 0 5%;
+  text-align: center;
+}
+
+p {
+  font-family: 'Outfit', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  margin: 8%;
+  text-align: center;
+  color: #9491A7;
+}
+
+/* Class Style */
+
+.container {
+  background-color: #fff;
+  height: 500px;
+  width: 320px;
+  border-radius: 21px;
+  margin: 5% 40% 1%;
+}
+
+.attribution {
+  padding-left: 5%;
+  text-align: center;
+}
